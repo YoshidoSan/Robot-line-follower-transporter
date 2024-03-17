@@ -1,0 +1,1 @@
+Projekt wykonywany w parach. Calem było wykonanie i zaprogramowanie robota do podążania po linni do kostki i przeniesienie jej z jednego obszaru do drugiego, wzdłóż trasy wyznaczanej przez czarną linię. Całość objaśniona w pliku 'sprawozdanie'.
